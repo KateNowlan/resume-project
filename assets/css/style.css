@@ -224,3 +224,10 @@ footer {
 .three-reasons-heading {
     margin-bottom: 15px;
 }
+
+/*----------------------------personal info */
+
+.personal-info-item {
+    margin-bottom: 20px;
+    display: block;
+}
